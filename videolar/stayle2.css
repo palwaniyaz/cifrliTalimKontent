@@ -1,0 +1,140 @@
+/* Umumiy sozlamalar */
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #f4f4f4;
+}
+
+/* Navigatsiya */
+nav {   
+    background-color: greenyellow;
+    padding: 20px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+nav ul {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+}
+
+nav ul li {
+    display: inline;
+    margin: 0 30px;
+}
+
+nav ul li a {
+    text-decoration: none;
+    color: white;
+    font-size: 18px;
+}
+/* Til tanlash */
+#language-select {
+    font-size: 16px;
+    padding: 5px;
+    border-radius: 5px;
+    border: none;
+}
+/* Video bo‘limi */
+.video-lessons {
+    text-align: center;
+    padding: 40px;
+    background-color: white;
+    margin: 20px;
+    border-radius: 10px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.2);
+}
+
+.video-lessons h2 {
+    color: #333;
+    font-size: 28px;
+}
+
+/* Video tugmalari */
+#video-container {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    gap: 10px;
+}
+
+.video-btn {
+    width: 100%;
+    max-width: 300px;
+    padding: 15px;
+    font-size: 18px;
+    font-weight: bold;
+    background-color: greenyellow;
+    border: none;
+    cursor: pointer;
+    transition: 0.3s;
+    border-radius: 5px;
+}
+
+/* Hover effekti */
+.video-btn:hover {
+    background-color: green;
+    color: greenyellow;
+    border: 2px solid green;
+}
+
+/* Footer (pastki qism) dizayni */
+footer {
+    background-color: #898383; /* Qoramtir fon */
+    color: greenyellow; /* Matn rangi sariq */
+    text-align: center;
+    padding: 20px 0;
+    font-family: Arial, sans-serif;     
+    position: fixed; /* Sahifa pastida turadi */
+    bottom: 0;
+    width: 100%;
+}
+/* Ichki container */
+/* Ichki container */
+.container {
+    max-width: 900px;
+    margin: 0 auto;
+}
+
+/* Kontakt ma'lumotlari */
+.contact-info a {
+    color: greenyellow;
+    text-decoration: none;
+    font-weight: bold;
+}
+
+.contact-info a:hover {
+    text-decoration: underline;
+}
+
+/* Ijtimoiy tarmoq ikonkalari */
+.social-icons {
+    margin-top: 10px;
+}
+
+.social-icons a {
+    display: inline-block;
+    margin: 10px;
+    padding: 10px 15px;
+    color: white;
+    border: 2px solid greenyellow;
+    border-radius: 5px;
+    text-decoration: none;
+    transition: 0.3s;
+}
+
+/* Tugmalar ustiga olib borilganda */
+.social-icons a:hover {
+    background-color: green;
+    color: #222;
+}
+
+/* Mualliflik huquqi matni */
+.copyright {
+    margin-top: 15px;
+    font-size: 14px;
+    opacity: 0.8;
+}

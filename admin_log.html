@@ -1,0 +1,72 @@
+<!DOCTYPE html>
+<html lang="uz">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Admin Haqida</title>
+    <link rel="stylesheet" href="admin_log.css">
+</head>
+<body>
+
+    <div class="admin-container">
+        <h1>Admin Haqida</h1>
+
+        <div class="tab-buttons">
+            <button onclick="showTab('admin-info')">👤 Admin Haqqinda</button>
+            <button onclick="showTab('video-section')">📹 Video qoyiw</button>
+            <button onclick="showTab('user-management')">👥 Faydalaniyshilar</button>
+        </div>
+
+        <!-- Admin rasmi va ma’lumotlari -->
+        <div class="admin-profile">
+            <img src="admin.jpg" alt="Admin rasmi" class="admin-img"> <!-- Rasm chapda -->
+            <div class="admin-info">
+                <h2>Admin ati: Palwaniyaz</h2>
+                <p>Email: palwan2002palwan2002qaraqalpaq@gmail.com</p>
+                <p>Telefon: +998 88 654 77 02</p>
+            </div>
+
+            
+        </div>
+
+            <!-- Video Qo‘yish Bo‘limi -->
+        <div id="video-section" class="tab-content hidden">
+            <h2>Video Qo‘yish</h2>
+            <input type="text" id="video-url" placeholder="Video URL kiriting">
+            <button onclick="addVideo()">➕ VIdeo qoyiw</button>
+            <div id="video-list"></div>
+        </div>
+
+            <!-- Foydalanuvchilar Bo‘limi -->
+        <div id="user-management" class="tab-content hidden">
+            <h2>Foydalanuvchilar</h2>
+            <ul id="user-list">
+                <li>Ali <button onclick="blockUser(this)">🚫 Bloklash</button></li>
+                <li>Vali <button onclick="blockUser(this)">🚫 Bloklash</button></li>
+            </ul>
+        </div>
+
+
+        
+
+        <a href="../bas_bet/index.html" class="back-btn">⬅️ Bas betke otiw</a>
+    </div>
+
+    <footer>
+        <div class="container">
+            <p class="contact-info">
+                📧 Email: <a href="mailto:info@example.com">palwan2002palwan2002qaraqalpaq@gmail.com</a> | ☎️ Telefon: <a href="tel:+998901234567">+998 90 123 45 67</a>
+            </p>
+            <div class="social-icons">
+                <a href="https://facebook.com" target="_blank" class="facebook">🔵 Facebook</a>
+                <a href="https://youtube.com" target="_blank" class="youtube">🔴 YouTube</a>
+                <a href="https://twitter.com" target="_blank" class="twitter">⚪ Twitter</a>
+            
+            <p class="copyright">© 2025</p>
+        </div>
+    </footer>
+
+    <script src="script.js"></script>
+
+</body>
+</html>
