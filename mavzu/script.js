@@ -1914,140 +1914,73 @@ JOYLASHTIRISH</h2>
         <li>–	elktron taqdimot;</li>
         <li>–	natijalar papkasi.</li>
       </ul>
-      <div class="image-container">
-        <img src="img/1.1.jpg" alt="Genially.ly sayti" class="content-image">
-        <p class="image-caption">1.1-rasm: Genially.ly sayti.</p>
-      </div>
-      
-      <p>Get started tugmasi ustiga bosgandan keyin qaysi shaklda ro'yxatdan o'tishni so'raydi va siz o'zingizga qulay shaklda ro'yxatdan o'tishingiz mumkin. Undan tashqari o'ngdan tepada turgan EN tugmasi orqali tilni o'zgartishingiz ham mumkin, afsuski tillar bo'limi biroz cheklangan va 6 ta tilda siz dasturni ishlatishingiz mumkin.</p>
-      
-      <div class="image-container">
-        <img src="img/1.2.jpg" alt="Tilni tanlash oynasi" class="content-image">
-        <p class="image-caption">1.2-rasm: Tilni tanlash oynasi.</p>
-      </div>
-      
-      <div class="image-container">
-        <img src="img/1.3.jpg" alt="Ro'yxatdan o'tish oynasi" class="content-image">
-        <p class="image-caption">1.3-rasm: Ro'yxatdan o'tish oynasi.</p>
-      </div>
-      
-      <p>Ro'yxatdan o'tganingizdan keyin esa sizga nima maqsadda kirganingizni yani taqdimotlaringiz korporativ yoki o'qish uchunmi so'raydi va siz o'zingizga maqulini tanlashingiz mumkin.</p>
-      
-      <div class="image-container">
-        <img src="img/1.4.jpg" alt="Lavozimni tanlash" class="content-image">
-        <p class="image-caption">1.4-rasm: Siz hozirda qanday lavozimda (yoki student) ekanligingizni kiritishingiz kerak bo'ladi.</p>
-      </div>
-      
-      <div class="image-container">
-        <img src="img/1.5.jpg" alt="Studentni tanlash" class="content-image">
-        <p class="image-caption">1.5-rasm: Men studentni (o'quvchi) ni tanlagandim.</p>
-      </div>
-      
-      <div class="image-container">
-        <img src="img/1.6.jpg" alt="O'quv muassasasini kiritish" class="content-image">
-        <p class="image-caption">1.6-rasm: Endi bu yerda qayerda o'qishingizni kiritasiz va siz to'liq ro'yxatdan o'tasiz.</p>
-      </div>
-      
-      <div class="image-container">
-        <img src="img/1.7.jpg" alt="Genially asosiy oynasi" class="content-image">
-        <p class="image-caption">1.7-rasm: Bu Genially saytini ro'yxatdan o'tgandagi to'liq oynasi.</p>
-      </div>
-      
-      <p>Endi siz o'zingizga kerakli bo'lgan narsani tanlashingiz mumkin, hozir Presentation orqali kichik taqdimot yaratamiz.</p>
-      
-      <div class="image-container">
-        <img src="img/1.8.jpg" alt="Taqdimot turini tanlash" class="content-image">
-        <p class="image-caption">1.8-rasm: Endi siz o'zingizga kerakli bo'lgan narsani tanlashingiz mumkin, hozir Presentation orqali kichik taqdimot yaratamiz.</p>
-      </div>
-      
-      <p>Yana siz o'ngda tepadagi UPGRADE TO PREMIUM tugmasi orqali saytdan pullik ham foydalanishingiz mumkin, bunda jami 4 ta taklif bor (biri tekin hozirgi) va ularda qanday imkoniyatlar borligi kiritilib o'tilgan.</p>
-      
-      <p>Bu yerdan 1000 dan ziyod taqdimotlar uchun tayyor shablonlar bor va siz hatto o'zingiz tayyor shablon kiritishingiz yoki bo'sh varaqni tanlab hammasini o'zingiz yasashingiz mumkin. Bittasini tanlashingiz mumkin.</p>
-      
-      <div class="image-container">
-        <img src="img/1.10.jpg" alt="Shablon tanlash" class="content-image">
-        <p class="image-caption">1.10-rasm: Endi taqdimotimiz uchun shablon.</p>
-      </div>
-      
-      <div class="image-container">
-        <img src="img/1.11.jpg" alt="Taqdimot tahrirlash" class="content-image">
-        <p class="image-caption">1.11-rasm: Tanlagan shablon ichiga kirdi endi bundagi funksiyalar.</p>
-      </div>
-      
-      <p>Tepada shriftni o'zgartish, qalinlashtirish, kursiv qilish, matn qanday joylashishi va shunga o'xshagan turli xil funksiyalar mavjud. Yana siz shu varaqni o'ziga ovoz qo'yishingiz mumkin, ovozni yo shu yerda ovozlashtirishingiz yoki tayyor ovozni kiritishingiz mumkin.</p>
-      
-      <h4>Go interaktiv tugmasini imkoniyatlarini ko'rib chiqamiz:</h4>
+
+      <p>Elektron portfolio ko‘rgazmaliligi, qulayligi, resurslarining aniq tuzilishiga egaligi bilan bir qatorda yana bir qancha o‘ziga xos xususiyatlar va afzalliklarga ega:</p>
       <ul>
-        <li>Ustiga bir marta bosishingiz bilan uni nima maqsadda ekanligi chiqiladi yani Go to page yani keyingi varaqqa o'tkazish, siz buni o'rniga uni bosganda video qo'yish yoki biror bir manzilni kiritib qo'yishingiz mumkin;</li>
-        <li>Tooltip - u Go tugmasini bildirishnomasi yani uni ustiga bossangiz nima maqsadda ishlatilishini yozib qo'yishingiz mumkin;</li>
-        <li>Bu orqali animatsiya qilishingiz mumkin;</li>
+        <li>–	zamonaviyligi;</li>
+        <li>–	tezkorligi (kerakli o‘zgarishni tezda kiritish imkoniyati);</li>
+        <li>–	funktsionalligi (katta sondagi ekspertlarga, hamkasb-mutaxassislarga, qiziquvchilarga o‘z tajribasini namoyish etish ikmoniyati) hamda o‘z muvaffaqiyatlarini qayd etib borish, bir vaqtning o‘zida doimiy ravishda to‘ldirib borish mumkin bo‘lgan raqamli ta’lim resurslarining tizimlashtirilgan mediatekasini yaratish imkoniyatining mavjudligi;</li>
+        <li>–	effektivligi (o‘qituvchini o‘z-o‘zini baholashi, boshqaruvchi hamda talabalarga ijobiy ta’sir ko‘rsatish);  </li>
       </ul>
+
+      <p>Portfolioning taqdimot shakli ma’lumotlarni ko‘rgazmali tarzda namoyish etishni amalga oshirsa, sayt-portfolio shakli esa ko‘proq ma’lumot olish va izlash imkoniyatini beradi. Internet izimining o‘quv jarayoniga keng joriy etish bo‘yicha yaratilgan imkoniyatlar portfolioning sayt-portfolio shaklida yaratish va uning resurslarini doimiy yangilanib borishini markazlashgan holda tizimli yo‘lga qo‘yish orqali samara berishi mumkin. Shuning uchun portfolioni tarmoqda saytportfolio sifatida joylashtirilishi maqsadga muvofiq.</p>
+      <p>Portfolioning muhim jihati – pedagogning kasbiy kompetentligini baholash uchun amaliy faoliyatdagi natijalarini (bajargan loyihalari, talabalarining olimpiada va tanlovlarda qatnashganligi, olib borgan ilmiy izlanishlari kabilarni) namoyish etishdan iborat. Portfolio o‘qituvchiga o‘z ishlari natijalarini tahlil etish, umumlashtirish, tizimlashtirish, o‘z imkoniyatlarini ob’ektiv baholash va qiyinchiliklarni bartaraf etishni rejalashtirish hamda yuqori natijalarga erishish imkoniyatini beradi. Shunday qilib, portfolio pedagogik faoliyatning turli xil ko‘rinishlarida (o‘quv, tarbiyaviy, ijodiy, metodik, tadqiqot) o‘qituvchi tomonidan erishilgan yutuqlarini yuzaga chiqarish imkonini beradi.</p>
       
-      <div class="image-container">
-        <img src="img/1.12.jpg" alt="Interaktiv tugma imkoniyatlari" class="content-image">
-        <p class="image-caption">1.12-rasm: Go interaktiv tugmasini imkoniyatlari.</p>
-      </div>
+      <p>Bir qancha mualliflar o‘z maqolalarida elektron portfolioni bir nechta variantlarini taklif etishgan:</p>
+      <ul>
+        <li>–	yutuqlar portfoliosi – ushbu portfolioda ahamiyat faoliyatdagi yutuqlarni tasdiqlovchi hujjatlarga qaratiladi;</li>
+        <li>–	taqdimot portfoliosi – o‘qituvchining eng yaxshi ishlari to‘plami, ushbu portfolio yangi ishga kirayotganda, suhbatdan o‘tish uchun yoki turli tanlovlarda qatnashish uchun kerak bo‘ladi;</li>
+        <li>–	hisobot ko‘rinishidagi portfolio – biror-bir loyiha ishini tugatayotgan vaqtda bajarilgan ishlar va erishilgan yutuqlar haqida ma’lumot beradi;</li>
+        <li>–	majmuaviy portfolio – yuqorida ko‘rsatilgan portfolio ko‘rinishlarini qamrab oladi va o‘qituvchi portfoliosini namoyish etishga xizmat qiladi.</li>
+      </ul>
+
+      <p>Siz odatda tarbiyachilarning portfolio yig‘ishlariga guvoh bo‘lgansiz. Tarbiyalanuvchi portfoliosi ortiqcha ish degan fikrga borishingiz ham mumkin. Ammo aynan tarbiyalanuvchi portfoliosi tarbiyachi mehnatining yuzaga chiqaradigan ko‘zgu desak mubolag‘a bo‘lmaydi. Bu portfolioni yig‘ish jarayonida tayyorlov guruhining bolasi o‘zi mehnat qiladi, shuningdek bu jild unga bog‘chasini eslatib turadigan bir umrlik esdalik bo‘ladi deyishimiz mumkin. Tarbiyachidan bu o‘rinda talab qilinadigani yo‘nalish ko‘rsatish xolos. </p>
       
-      <h3>Endi asosiy funksiyalarga o'tamiz:</h3>
+      <p>Tarbiyalanuvchi portfoliosi – unda asosan bolaning ijodiy ishlari yig‘indisi jamlanadi va u faqat tayyorlov guruhi bolalari o‘rtasida qilinadi. Portfolio yig‘ishdan ko‘zlangan maqsad – bolaning o‘zi yasagan, chizgan ijodiy ishlarini yig‘ish va shu asnosida unda MTT xotiralarini o‘zi bilan olib ketishiga imkoniyat yaratish, tarbiyalanuvchining o‘ziga bo‘lgan bahosini oshirish. Portfolio yig‘ish jarayonida bola faollik ko‘rsatadi, maqsad qo‘yish va uni bajarishni o‘rganadi, ma’lum qiyinchiliklarga dosh beradi va bu uning fe’lida qat’iyatlilik va sabr qilish tuyg‘usini rivojlantiradi. Portfolio yig‘ish jarayonida ma’lum shartlarga rioya qilish majburiy hisoblanadi. </p>
       
-      <div class="image-container">
-        <img src="img/1.13.jpg" alt="Text funksiyasi" class="content-image">
-        <p class="image-caption">1.13-rasm: Text funksiyasi - bu funksiya orqali slaydga turli o'lchamdagi yoki turli xil shriftdagi matnlarni olib kiritishingiz mumkin.</p>
-      </div>
+      <p>Birinchisi, bu rostgo‘ylik bo‘lib, bunda faqat bolaning o‘z qo‘li bilan yasalgan ijod namunalaridan jamlanishi shart. Chunki bola bu jamlanmani maktabga chiqqanida o‘qituvchisiga ko‘rsatishi va lozim bo‘lsa o‘sha o‘yinchoqni yana yasay olishi kerak. Har bir portfolio albatta bir yo‘nalishda bo‘lishi shart emas. Chunki har bir bolaning o‘ziga yarasha iqtidori bor va o‘sha yo‘nalishda qobiliyatini aks ettiradigan narsalar yig‘gani ma’qul. Quyidagi bo‘limlar har bir portfolio asosini tashkil qiladi: </p>
       
-      <div class="image-container">
-        <img src="img/1.14.jpg" alt="Image funksiyasi" class="content-image">
-        <p class="image-caption">1.14-rasm: Image funksiyasi - bu funksiya orqali slayda rasm, video yoki gif-larni qo'shishingiz mumkin. Rasmlarni internetdan izlashingiz yoki tayyor o'zingizda bor rasm yoki videolardan foydalanishingiz mumkin.</p>
-      </div>
+      <p>“Men bilan tanishing”. Bu bo‘limda har bir bolaning ismi, bolaligida tushgan suratlari, qaerda yashashi haqidagi ma’lumot yoziladi. Tarbiyalanuvchining ismi nima va bu ismni unga kim nima maqsadda qo‘ygan, ushbu ism qanday ma’noni bildirisha haqida ham ma’lumotlar yozish mumkin. </p>
+      <p>“Men o‘sayapman”. Bu bo‘limda bolaning o‘sishi bilan bog‘liq ma’lumotlar hamshiradan olib yoziladi. Unda bolaning qanday kasalliklar bilan kasallangani, surunkali kasalligi bor yo‘qligi haqidagi ma’lumotlarni ham ilova qilish mumkin. </p>
+      <p>“Mening oilam”. Bu bo‘limda oila a’zolari haqida qisqacha ma’lumot beriladi, ular qaysi sohada ishlaydi, sevimli mashg‘uloti nima, ularning qanday yaxshi fazilatlari bor kabi savollarga javob berish ham mumkin. </p>
+      <p>Men yordamchiman”. Bolaning oilada uy ishlarida yordam berayotgani tasvirlangan fotosuratlar ilova qilinadi. </p>
+      <p>“Oltin qo‘llar”. Bolaning o‘z qo‘li bilan yasagan ijodiy ishlari ilova qilinadi.</p>
+      <p>“Mening yutuqlarim”. Tarbiyalanuvchining shu kungacha qo‘lga kiritgan yutuqlari, olgan diplomlari, faxriy yorliqlari ilovaqilinadi. </p>
+      <p>“Men haqimda”. Bu bo‘limga tarbiyachi va tarbiyalanuvchilarning aynan shu portfolio egasi haqidagi fikrlari yoziladi. Portfolio birdaniga bir kun yoki bir haftada tayyor bo‘lmaydi. Uni o‘quv yili boshidan boshlab rejalab tayyorlab borish bola uchun ham tarbiyachi uchun ham ortiqcha qiyinchilik tug‘dirmaydi. Bir haftada bir marta porfolio uchun topshiriqni bajarish me’yor sanaladi. Faqat uni yig‘ayotganda judayam ko‘p material bilan ko‘paytirib yubormaslikka, uning tashqi ko‘rinishi va ko‘tarish uchun qulay bo‘lishiga ham alohida e’tibor qaratish lozim. </p>
+      <p>Maktabgacha yoshdagi bolalarga ta’lim berishda kompetensiyaviy yondashuv o‘sib borayotgan bola shaxsini hayotga tayyorlash, unda hayotiy muhim masalalarni hal qilish uchun zarur bo‘lgan, ahloqiy me’yor va qadriyatlarni o‘zlashtirish, boshqa insonlar bilan muloqot qilish, unda “men”obrazini qurish bilan bog‘liq bo‘lgan faoliyat usullarini shakllantirishga tayyorgarlikni ko‘zda tutadi. </p>
+      <p>Boshlang‘ich muhim kompetensiyalar bolaning faoliyat va ahloq subyekti sifatida yaxlit rivojlanishini talab etadi. Ijtimoiy-tarixiy tajribani o‘zlashtirish faol ish jarayonida yuz beradi. Faollik bolaga hos xususiyatdir. Tarbiya jarayonidagi faollik asosida faoliyatning har xir turlari shakllanadi. Ulardan asosiylari: munosabatda bo‘lish faoliyati, bilish, buyumlar bilan bo‘ladigan faoliyat, o‘yin, oddiy mehnat va o‘quv faoliyatlaridir. Ta’lim-tarbiya orqali amalga oshiriladigan faoliyatlarni maktabgacha yoshdagi bolalar birdaniga o‘zlashtirib olmaydilar, aksincha ularni tarbiyachi rahbarligida sekin-asta egallab boradilar. </p>
+      <p>Bugungi kunda maktabgacha ta’lim mazmunini takomillashtirishda o‘ziga xos metodik, pedagogik, psixologik tayyorgarlik bilan ishlash davr taqazosiga aylandi. Chunki maktabgacha ta’lim mazmunini takomillashtirish keng ma’noli tushuncha bo‘lib, uni samarali amalga oshirish maktabgacha ta’lim tashkiloti binosining holati, tarbiyachi-pedagoglar, tarbiyachi yordamchilari, ota-onalar hamda bolalarning ta’lim jarayonidagi ishtiroki innavatsion bo‘lishi lozimligini talab etadi. “Ilk va maktabgacha yoshdagi bolalar rivojlanishiga qo‘yiladigan Davlat talablari” hamda “Ilk qadam” Davlat o‘quv dasturi asosida kompentensiyaviy yondashuv jarayonida pedagogik-psixologik, metodik, badiiy adabiyotlar soni va sifati, har bir yosh guruhiga mos va xos adabiyotlar bilan boyitib borish ham muhim masaladir. Bolalarni o‘ynab turib o‘ylashga undovchi muammoli vaziyatlarni o‘yinlarda aks ettiruvchi ta’limiy rivojlantiruvchi o‘yin markazlari tashkil etish va ular faoliyatini muvofiqlashtirishda ota-onalar va jamoatchilikning jalb qilinishi va boshqa shu kabi omillar maktabgacha ta’lim mazmunini oshiradi.</p>
+      <p>Maktabgacha yoshdagi (6-7 yosh) bolaning umumiy muhim kompetensiyalari </p>
+      <p>Kommunikativ kompetensiya – muloqot vositalaridan turli vaziyatlarda foydalana bilish ko‘nikmasi. </p>
+      <p>O‘yin kompetensiyasi – bolaning o‘yin jarayoni va uni tashkil qilishda tajriba, bilim va ko‘nikmalardan ijodiy foydalanishi. O‘quv-tarbiyaviy jarayon uchun asos hisoblanadi. </p>
+      <p>Ijtimoiy kompetensiya – hayotiy vaziyatlarda kattalar va tengdoshlar bilan muloqotda axloq qoidalari va me'yorlariga rioya qilgan holda o‘zini tuta olish mahorati. </p>
+      <p>Bilish kompetensiyasi – atrofdagi olamni ongli ravishda idrok qilish va olingan bilim, ko‘nikma, malaka va qadriyatlardan o‘quv va amaliy vazifalarni hal qilish uchun foydalanish. </p>
+      <p>Bolaning rivojlanish sohalari kompetensiyalari </p>
+      <p>Bolaning kompetensiyalari bola rivojining quyidagi sohalarida belgilanadi:    • </p>
+      <li>–	jismoniy rivojlanish va sog‘lom turmush tarzining shakllanishi; </li>
+      <li>–	ijtimoiy-hissiy rivojlanish; </li>
+      <li>–	nutq, muloqot, o‘qish va yozish malakalari; </li>
+      <li>–	bilish jarayonining rivojlanishi; </li>
+      <li>–	ijodiy rivojlanish.</li>
+
       
-      <div class="image-container">
-        <img src="img/1.15.jpg" alt="Resources funksiyasi" class="content-image">
-        <p class="image-caption">1.15-rasm: Resources - bu orqali turli shakl, jadval, tasvirlar, belgilarni slaydga qo'shishingiz mumkin. Bular juda ko'p bo'lib o'zingiz izlashingiz ham mumkin. Muhim jihatlaridan biri statistika jadvallari tanlab sonlarni berib chiqsangiz uni o'zi sizga tayyor jadvalni hosil qilib beradi.</p>
-      </div>
+      <p>Maktabgacha ta’limning sifat va samaradorligiga erishishda bolalarning kundalik faoliyatini mazmunli va qiziqarli tashkil etish, bo‘sh vaqtlardan unumli foydalanish, qobiliyatlarini aniqlash va shunga qarab jarayonga ijodiy yondashish, bolalar uchun o‘tkazilgan mashg‘ulotlar va manbalarni bolalar va jamiyat ehtiyojlariga javob beradigan holatga keltirish maqsadida ratsional va tizimli tahlil qilishni ko‘zda tutadi. Buning uchun innovatsion usullardan biri bo‘lgan “Keys-stadi” texnalogiyasidan maktabgacha ta’lim tashkilotida ham foydalanish bolalarni faol ta’lim olishga undaydi. Bu usulni qo‘llash orqali tarbiyachi bolani berilgan savolga to‘g‘ri javob berishga o‘rgatadi. Bolalarga ko‘proq kitob o‘qib berish yoki kitob sovg‘a qilish ularni so‘z boyligini oshirish bilan bir qatorda xotirasi va tafakkurini o‘stiradi. Bu o‘rinda O‘zbekiston Respublikasi Prezidenti Sh.M.Mirziyoyev tomonidan ilgari surilgan 2019-yil 20-martdagi “Yoshlar ma’naviyatini yuksaltirish va ularni bo‘sh vaqtini mazmunli tashkil etish borasidagi 5 muhim tashabbusning 4- chisi “Kitobxonlikni keng targ‘ib qilish”ni MTTdan boshlash zarurligini ta’kidlash lozim. Tarbiyachilar vazifasi bolalar uchun qiziqarli bo‘lgan va ularning ijodiga keng erkinlik beradigan ta’lim imkoniyatlarini ta’minlashdan iborat bo‘lib qoladi.</p>
       
-      <div class="image-container">
-        <img src="img/1.16.jpg" alt="Interactive elements" class="content-image">
-        <p class="image-caption">1.16.1-rasm: Interactive elements - bu yerda interaktiv elementlarni kiritishingiz mumkin misol uchun ovoz yozgichlar, linklar, widgetlar, interaktiv grafikalar.</p>
-      </div>
-      
-      <div class="image-container">
-        <img src="img/1.17.jpg" alt="Interactive questions" class="content-image">
-        <p class="image-caption">1.17-rasm: Interactive questions - bu yerda siz interaktiv savollarni qo'shishingiz mumkin.</p>
-      </div>
-      
-      <div class="image-container">
-        <img src="img/1.18.jpg" alt="Smartblocks" class="content-image">
-        <p class="image-caption">1.18-rasm: Smartblocks - bu slaydga tayyor shablonlarni qo'shishingiz mumkin, yani tayyor taqdimot ichida tayyor kichik slaydlar. Bu yerda turli xil tayyor slayd betlarini topishingiz mumkin.</p>
-      </div>
-      
-      <div class="image-container">
-        <img src="img/1.19.jpg" alt="Insert funksiyasi" class="content-image">
-        <p class="image-caption">1.19-rasm: Insert - Genial.ly sayti turli xil boshqa saytlar bilan ham hamkorlikda ish olib boradi. Siz bu yerda turli xil saytlardan kontentni olib ssilkasi olib tashlasangiz o'sha kontentni ko'rsatib beradi.</p>
-      </div>
-      
-      <div class="image-container">
-        <img src="img/1.20.jpg" alt="Background funksiyasi" class="content-image">
-        <p class="image-caption">1.20-rasm: Background - bu yerda siz orqa fonga rang yoki rasm qo'yishingiz mumkin.</p>
-      </div>
-      
-      <div class="image-container">
-        <img src="img/1.21.jpg" alt="Pages funksiyasi" class="content-image">
-        <p class="image-caption">1.21-rasm: Pages - bu yerda siz taqdimotingizda xohlagan slaytiga o'tishingiz mumkin.</p>
-      </div>
-      
-      <h3>Xulosa</h3>
-      
-      <p>Xulosa qilib aytganda, Genially ko'p qirrali platforma bo'lib, u foydalanuvchilarga interaktiv va animatsiyali kontent yaratish imkonini beradi va uni taqdimotlar, o'quv materiallari va boshqa turli maqsadlar uchun ideal qiladi. U jozibador va vizual jozibador kontent yaratishni osonlashtiradigan bir qator xususiyatlar va shablonlarni taklif etadi.</p>
-      
-      <a href="https://udoba.org/node/205752  " target="_blank">Interaktiv</a>
+  
+  
+  
+  
+  
+            
+      <a href="https://udoba.org/node/205752  " target="_blank">Interaktiv    </a>
     
       <h3>Savollar:</h3>
       <ol>
-        <li>Genially platformasida yangi loyiha qanday yaratiladi?</li>
-        <li>Taqdimotga interaktiv tugmalarni qanday qo'shish mumkin?</li>
-        <li>Bir nechta foydalanuvchi bir vaqtda bir taqdimot ustida qanday ishlashi mumkin?</li>
-        <li>Taqdimotda test yoki viktorina (quiz) yaratish bosqichlari qanday?</li>
-        <li>Audio va video fayllarni Genially taqdimotiga qo'shish tartibini tushuntiring.</li>
+        <li>1.	Ta’lim jarayonida portfolio nima va uning asosiy maqsadi nimadan iborat?</li>
+        <li>2.	Portfolio turlari (an’anaviy, elektron/e-portfolio) o‘rtasidagi farqlar nimalardan iborat?</li>
+        <li>3.	Portfolio ishlab chiqishda qanday asosiy texnologik vositalar va platformalar ishlatiladi?</li>
+        <li>4.	Portfolio orqali o‘quvchining bilim, ko‘nikma va kompetensiyalarini qanday aniqlash mumkin?</li>
+        <li>5.	Portfolio ishlab chiqishda qanday metodologik yondashuvlar qo‘llaniladi?</li>
       </ol>
     </div>
     
@@ -2136,6 +2069,400 @@ JOYLASHTIRISH</h2>
     </style>
         `
       },
+      { 
+        title: "RAQAMLI IZNI XIMOYALASH BO‘YICHA TAVSIYALAR ISHLAB CHIQISH",
+        content: `
+          <div class="genially-content">
+          <h2>RAQAMLI IZNI XIMOYALASH BO‘YICHA TAVSIYALAR ISHLAB CHIQISH</h2>
+          <p>Raqamli iz - bu foydalanuvchi Internetda qoldiradigan barcha ma’lumotlar. Bu ijtimoiy tarmoqlardagi postlar va sharhlar, ish elektron pochta manzili, Google qidiruv tarixi yoki onlayn do‘kon savatidagi narsalar bo‘lishi mumkin . Ko‘pincha bu atama oddiy tarmoq foydalanuvchilariga nisbatan qo‘llaniladi. Raqamli iz faol yoki passiv bo‘lishi mumkin. Birinchi holda, foydalanuvchi qasddan o‘zi haqida ma’lumot qoldiradi, masalan, YouTube'dagi video ostida sharh yozadi yoki Vkontakte profilini to‘ldiradi. Qanchalik ko‘p post yoki fotosuratlar baham ko‘rsangiz, raqamli izingiz shunchalik ko‘rinadi. U qor to‘pi kabi o‘sadi: ma’lumotlar yillar davomida onlayn bo‘lib qoladi, ayniqsa , yopilishi yoki Internetdan olib tashlanishi mumkin bo‘lmagan yirik platformalar haqida gap ketganda .</p>
+          <p>Passiv iz bilan qiyinroq: bu odamning bilimisiz paydo bo‘ladi. Foydalanuvchi ma’lumotlari reklama kuzatuvchilari, kukilar va barmoq izlari kabi turli xil vositalar yordamida to‘planadi.</p>
+          <p>Barmoq izi – foydalanuvchining raqamli barmoq izi, brauzer va qurilma sozlamalari asosida shaxsni identifikatsiya qiluvchi vosita. Saytlarni to‘g‘ri ko‘rsatish uchun birinchi navbatda barmoq izi kerak. Ekran o‘lchamlari, operatsion tizim, joylashuv va til sozlamalari haqidagi ma’lumotlar uzatiladi. Bu tafsilotlarning barchasi o‘ziga xos aktyorni tashkil qiladi.</p>
+          <p>Maxsus ilovalar yordamida veb-saytlar siz haqingizda qanday ma’lumotlarni to‘plashini bilib olishingiz mumkin:</p>
+          <ul>
+          <li>1.	Cover Your Track onlayn kuzatuv va barmoq izingizning o‘ziga xosligini tahlil qiladi. Sinov bir nechta faoliyat trekerlarini yuklab olishni simulyatsiya qiladi va kuzatuvdan himoyalanish darajasini aniqlaydi. Xizmat raqamli barmoq izining o‘ziga xosligi haqida batafsil hisobot taqdim etadi. Yuqori o‘ziga xoslik foydalanuvchini boshqalardan ajratib turadi - shu tarzda uni aniqroq aniqlash mumkin.</li>
+          <li>2.	Whoer  - bu brauzer Internetga uzatadigan ma’lumotlarni tekshirish xizmati. Sinovdan o‘tganingizdan so‘ng, dastur sizning qanchalik anonim ekanligingizni ko‘rsatadi.</li>
+          <li>3.	Clickclickclick  - bu oddiy veb-saytdagi har qanday foydalanuvchi harakatlari qanday kuzatilishi va tahlil qilinishini aniq ko‘rsatadigan kichik o‘yin.</li>
+          </ul>
+
+          <p>Reklama kuzatuvchilari tahliliy va shaxsiylashtirilgan reklama uchun foydalanuvchi ma’lumotlarini to‘playdigan va aniqlaydigan maxsus vositalardir. Ularning yordami bilan marketologlar odamlarning Internetdagi kontent bilan qanday munosabatda bo‘lishini o‘rganadilar. Ko‘pincha, ular egalarining roziligi bilan veb-saytlarga o‘rnatiladi. Ammo uchinchi shaxslarga ma’lumot uzatadigan firibgar trekerlar ham mavjud. Ular ko‘pincha brauzerlar tomonidan bloklanmaslik uchun niqoblangan.</p>
+          <h3>Cookie fayllari nima va ularni qanday tozalash kerak</h3>
+          <p>Ma’lumot to‘plashning yana bir vositasi bu Cookie fayllari. Ehtimol, sizdan bir necha marta veb-sahifalar ularni qabul qilishingizni va «Ha» tugmasini bosishingizni so‘ragandir  .Cookie-ning asosiy vazifasi saytlarni ma’lum bir foydalanuvchiga moslashtirishdir.</p>
+          <p>Asbobning o‘zi xavfli emas ; bu shunchaki veb-server tomonidan yuborilgan va kompyuteringizda saqlanadigan ma’lumotlar bo‘laklari. Ularning yordami bilan sayt siz qanday kirganingizni, qaysi sahifalarni ko‘rganingizni, savatga qanday mahsulotlar qo‘shganingizni eslab qoladi — keyingi safar tashrif buyurganingizda hammasini qaytadan boshlashingiz shart emas.</p>
+              
+      
+          <div class="image-container">
+            <img src="img/14.1.jpg" alt="Genially.ly sayti" class="content-image">
+            <p class="image-caption">14.1-rasm: Biz allaqachon cookie-fayllar so‘ralganda avtomatik ravishda «Ok» tugmasini bosishga odatlanganmiz. Manba: shopify.com</p>
+          </div>
+
+          <p>Cookie-fayllar saytga qachon va qayerdan kirganingizni, qaysi tilda gaplashayotganingizni va qaysi valyutada to‘layotganingizni, IP manzilingiz va joylashuvingizni, shuningdek siz kiritgan matnlarni va bosgan havolalaringizni yozib oladi. Masalan, ularning yordami bilan Google mos funksiyalarni taklif qiladi , foydalanuvchi didiga qarab yangiliklar va reklamalarni namoyish etadi, shuningdek, sayt muammolarini aniqlaydi va firibgarlikning oldini oladi.</p>
+          <p>Ikki turdagi cookie fayllari mavjud:</p>
+          <ul>           
+          <li>1.	Doimiy. Ular ma’lumotni bir necha hafta yoki oy davomida saqlab qoladi va saytdan chiqqaningizdan keyin o‘chirilmaydi.</li>
+          <li>2.	Vaqtinchalik. Ular faqat siz saytda bo‘lganingizda mavjud bo‘ladi va siz sahifani yopganingizdan so‘ng ular o‘chiriladi.</li>
+          <li></li>
+          <li></li>
+          </ul>
+
+          <p>Asbob ijtimoiy tarmoqlar bilan integratsiyada katta rol o‘ynaydi. Agar siz, masalan, Vkontakte orqali tizimga kirsangiz, tizim sizni toza tarixga ega bo‘lgan tashrif buyuruvchi sifatida emas, balki ma’lum bir xususiyatlarga ega foydalanuvchi sifatida qabul qiladi.</p>
+          <h3>Cookie-fayllarni tozalashim  kerakmi va ularni o‘chirib qo‘yish mumkinmi? </h3>
+
+          <p>Cookie	fayllarni qo‘llab-quvvatlash media saytlari, ijtimoiy tarmoqlar va onlayn-do‘konlar tomonidan talab qilinadi . Siz ularni qabul qilmasligingiz mumkin, ammo bu saytning ishlashiga ta’sir qiladi. Eng yomon holatda, siz uni odatdagidek ishlata olmaysiz: shaxsiy hisobingiz va boshqa funktsiyalar mavjud bo‘lmaydi.</p>
+          <p>Cookie-fayllarni vaqti-vaqti bilan tozalash kerak. Buni siz kamdan-kam tashrif buyuradigan yoki endi umuman kirmoqchi bo‘lmagan saytlar bilan qilganingiz ma’qul. Muntazam ravishda foydalanadigan saytlardagi cookie-fayllarni doimiy ravishda tozalash noqulayliklarga olib keladi - har safar barcha ma’lumotlarni qayta kiritishingiz kerak bo‘ladi.Ammo agar anonimlik ustuvor bo‘lsa, barcha Cookie fayllarini tozalang.</p>
+          <p>Cookie fayllarini tozalash mexanizmi brauzerga bog‘liq.</p>
+          <p>Gugl xrom. «Asboblar» → «Tarix» ga o‘ting, «Tarixni tozalash» ni bosing, «Cookie fayllari va boshqa sayt ma’lumotlari» ni belgilang. Siz istisnolarni “Cookie-fayllar va boshqa sayt maʼlumotlari” sozlamalari boʻlimida ham sozlashingiz mumkin - har doim cookie-fayllardan foydalanishi mumkin boʻlgan saytlarni tanlang.</p>
+          <h3>Raqamli izlar haqida nimalarni bilishingiz kerak</h3>
+          
+          <p>Zamonaviy dunyoda siz hech qanday raqamli iz qoldirmasligingiz dargumon : siz oddiygina Internetdan foydalana olmaysiz. Ammo ma’lumotlarni ehtiyotkorlik bilan almashish kerak. Internetga kirishda buni eslash muhim.</p>
+          <p>Raqamli izlarni kamaytirish oson emas. Agar siz ijtimoiy tarmoqlarda ba’zi ma’lumotlarni e'lon qilgan bo‘lsangiz , endi uning tarqalishini to‘liq nazorat qila olmaysiz. Keyinchalik hamma narsani o‘chirib tashlagan bo‘lsangiz ham, fotosuratlar ma’lumotlar bazalariga yoki uchinchi tomon manbalariga oldindan yuklanishi mumkin. Va postlar boshqa saytlarda skrinshot yoki matn ko‘rinishida tarqatilishi mumkin.</p>
+          
+          <div class="image-container">
+            <img src="img/14.2.jpg" alt="Genially.ly sayti" class="content-image">
+            <p class="image-caption">14.2-rasm.VKontakte-dan ochiq sahifa ma’lumotlarini ko‘rsatadigan ko‘plab saytlar mavjud. Buni endi maxfiylik sozlamalari orqali yashirib bo‘lmaydi. Manba: vklook.site</p>
+          </div>
+
+          <p>Har bir harakat sizning raqamli shaxsingizning xususiyatlarini oshiradi. Onlayn platformalar shaxsiylashtirilgan reklama uchun profillarni yaratadi va yangilaydi. Boshqa odamlar sizni eski xabarlar va ular topgan fotosuratlar asosida hukm qiladi. Bu narsalarning ba’zilari ko‘rinmas, boshqalari esa bir nechta Google qidiruvlari orqali topiladi.</p>
+          
+            <p>Raqamli izlarni maxfiy saqlash qiyin. Hatto yopiq akkauntlardan yoki shaxsiy yozishmalardan olingan ma’lumotlar skrinshotlar yoki ma’lumotlarning sizib chiqishi orqali ommaviy bo‘lishi mumkin.</p>
+            <p>Raqamli izlar firibgarlarga yordam beradi. Jinoyatchilar fishing yoki hisoblarga kirish izlaridan foydalanadilar. Shundan so‘ng, ular uchun, masalan, foydalanuvchining do‘stlaridan pul undirish osonroq bo‘ladi.</p>
+            <p>Eng aniq xato - telefon raqamingizni yoki manzilingizni hammaga ochiq qoldirishdir. Kamroq tushunarlisi - onangizning qizlik familiyasini yoki uy hayvoningizning ismini nashr etish: ko‘pincha bu ma’lumotlar hisobingizga kirishga urinayotganda tekshirish savollari uchun ishlatiladi.</p>
+            <h3>Raqamli izingizni qanday kamaytirish mumkin</h3>
+            <p>Raqamli izingizni kamaytirish mumkin. Internetdagi xavfsizlikni ta’minlashga qaratilgan harakatlaringiz ham, texnik qurilmalar ham bunga yordam beradi.</p>
+            <p>Internet siz haqingizda nimani bilishini tekshiring. Qidiruv tizimiga to‘liq ismingizni yoki taxallusingizni kiriting - bu orqali siz odamlar onlaynda siz haqingizda biror narsa bilmoqchi bo‘lganlarida birinchi bo‘lib nimani ko‘rishini tushunasiz .</p>
+            <p>Shaxsiylashtirilgan reklama uchun qanday reklama portretingiz borligini ham baholashingiz mumkin. Bunga yosh, jins va asosiy sevimli mashg‘ulotlar kiradi, ular onlayn faoliyat asosida qayd etiladi. Masalan, Google bu funksiyaga ega, uni maxsus sahifada topishingiz mumkin .</p>
+            
+            <div class="image-container">
+            <img src="img/14.3.jpg" alt="Genially.ly sayti" class="content-image">
+            <p class="image-caption">.3-rasm.Reklama portretlarining aniqligini ortiqcha baholamaslik kerak. “Avtomobillar” va “Blenderlar” qiziqish belgilarini olish uchun Google’dan ikki marta qilishim kerak edi. Manba: google.com</p>
+          </div>
+
+            <p>Siz haqingizda ma’lumot manbalari sonini kamaytiring. Agar siz ijtimoiy tarmoqlarda eski akkauntlardan foydalanishni to‘xtatgan bo‘lsangiz yoki qadimgi forumda o‘tirishni to‘xtatgan bo‘lsangiz, u erdagi xabarlar va profillarni o‘chirib tashlaganingiz ma’qul.</p>
+            <p>Agar bunday funktsiya bo‘lmasa, sayt ma’murlari bilan bog‘laning. Sizning argumentingiz 2021 yil mart oyida kuchga kirgan qonun bo‘ladi . Unga ko‘ra, ijtimoiy tarmoqlardagi har qanday ma’lumotlar ommaviy foydalanish mumkin bo‘lgan shaxsiy ma’lumotlar hisoblanadi - siz ularni tarqatishni to‘xtatishni talab qilishga haqlisiz.</p>
+                <p>Maxfiylik sozlamalarini tekshiring. Aksariyat ijtimoiy tarmoqlar sizga sahifaning maxfiyligini tartibga solish imkonini beradi: uni Internetdan butunlay yashirish, uni faqat do‘stlar uchun ochiq qilish yoki ma’lum odamlar uchun alohida xabarlarni nashr etish. Bunday sozlamalar, masalan, VKontakte yoki Twitter-da mavjud va qulaylik uchun oldindan ko‘rish funktsiyasi mavjud.</p>
+                <p>Maxfiyligingiz haqida qayg‘uradigan, ya’ni uchinchi tomon cookie-fayllarini rad etadigan brauzerdan foydalaning. Masalan, Safari va Firefox buni sukut bo‘yicha bajaradi. Maxfiylik hisobotida qaysi brauzerlar siz uchun bloklanganligini ko‘rishingiz mumkin.</p>
+                <p>Trakerlarni bloklash uchun brauzeringizga kengaytmalar qo‘shing. Privacy Badger , Ghostery va  Privacy Essentials DuckDuckGo kabi dasturlar mos keladi.</p>
+                <p>Ijtimoiy tarmoqlar va messenjerlarda juda ko‘p ma’lumot joylashtirmang. Bu, ayniqsa, ehtiyotkorlik bilan oshkor qilinishi kerak bo‘lgan ma’lumotlar uchun to‘g‘ri keladi, masalan, sayohat yoki uyda uzoq vaqt yo‘qligi. Telefon raqamingiz yoki elektron pochta manzilingizni hammaga oshkor qilmaslik yaxshiroqdir.</p>
+                <p>Onlayn to‘ldiriladigan shakllar va ilovalar haqida ehtiyot bo‘ling. Biz juda ko‘p ma’lumotlarni ixtiyoriy ravishda baham ko‘ramiz va shu bilan raqamli portretimizni yanada boy va batafsilroq qilamiz. Ba’zi ma’lumotlar, masalan, moliya bilan bog‘liq bo‘lganlar - umuman xabar qilinmasligi kerak. Shuning uchun, anketa yoki anketani to‘ldirishdan oldin, bu haqiqatan ham zarurmi yoki yo‘qligini o‘ylab ko‘ring .</p>
+                      <p>Ijtimoiy tarmoqlar orqali veb-saytlarga kirmang. Bu funksiya deyarli har qanday portalda mavjud. Bu juda qulay, lekin shu bilan birga siz o‘zingiz haqingizda ko‘proq ma’lumotni saytga o‘tkazasiz va shunchaki foydalanuvchi emas, balki sevimli musiqangiz, o‘ziga xos qiziqishlaringiz va uy hayvoningiz bilan foydalanuvchiga aylanasiz. Resurslarni so‘ragan ma’lumotlarga kirish ruxsatlarini kuzatib boring.</p>
+                      <p>Apple texnologiyasi foydalanuvchilari uchun muqobil «Apple bilan tizimga kirish» tugmasi. Bunday holda, saytlar faqat ism va elektron pochta manzilini oladi, bu maxsus funksiya yordamida yashirilishi mumkin. Buning uchun noyob tasodifiy elektron pochta manzili yaratiladi va undan xabarlar sizning manzilingizga yuboriladi.</p>
+                      <p>Xavfsiz saytlarga kirmang. Agar sahifa manzili https:// oʻrniga http:// bilan boshlansa, unda xavfsizlik sertifikati yoʻq. Tashrif buyurganingizda, u erda maxfiy ma’lumotlarni qoldirmang.</p>
+                      <p>Qurilmalaringiz va dasturlaringizni yangilab turing. Firibgarlar maʼlumotlaringizga kirish uchun eski versiyalardagi zaifliklardan foydalanishlari mumkin. Yangilanishlar chiqarilsa, ularni kechiktirmaslik yaxshiroqdir.</p>
+                      <p>Umumiy Wi-Fi-dan ehtiyotkorlik bilan foydalaning. Rossiyada umumiy tarmoqqa ulanish uchun odatda telefon raqami va elektron pochta manzilini kiritish kerak. Shuningdek, qaysi ilovalardan foydalanayotganingizni va qaysi ma’lumotlarni uzatayotganingizni kuzatib boring. Umumiy Wi-Fi buzib kirishi mumkin. Bunday sessiyalar davomida siz shaxsiy ma’lumotlarni kiritmasligingiz yoki muhim xizmatlardan, masalan, bank xizmatlaridan foydalanmasligingiz kerak.</p>
+
+              <h3>Smartfon yordamida qanday qilib anonim bo‘lish mumkin</h3>
+              <p>Smartfoningiz brauzerida siz nafaqat cookie-fayllarni tozalashingiz, balki ilovalar siz haqingizda qanday ma’lumotlarni uzatayotganini kuzatishingiz kerak. Mobil operatsion tizimlar xizmatlar to‘playdigan ma’lumotlarni kuzatishga yordam beradi.</p>
+              <p>Agar sizda iPhone bo‘lsa. iOS 14.5 tizim darajasida ma’lumotlarni kuzatishni oldini olish imkonini beruvchi Ilovalarni kuzatish shaffofligi xususiyatini taqdim etdi . Agar ilova qurilma reklama identifikatoridan foydalansa, u nima uchun bunday qilayotganini tasvirlab berishi va foydalanuvchidan ruxsat so‘rashi kerak. Ilovani birinchi marta ochganingizda qalqib chiquvchi so‘rov paydo bo‘ladi. Foydalanuvchida “Kuzatmaslikni so‘rash” va “Ruxsat berish” tanlovi mavjud. Rad etish ilovaning ishlashiga hech qanday ta’sir qilmaydi, lekin shuni yodda tutingki, reklama yo‘qolmaydi - u shunchaki shaxsiylashtirilmaydi. Agar siz allaqachon o‘rnatilgan ilovalarda kuzatuvni o‘chirib qo‘ymoqchi bo‘lsangiz, «Sozlamalar» → «Maxfiylik va xavfsizlik» ga o‘ting, «Kuzatuv» ni tanlang.</p>
+              
+              <div class="image-container">
+            <img src="img/14.4.jpg" alt="Genially.ly sayti" class="content-image">
+            <p class="image-caption">14.4-rasm.Kuzatuv soʻrovlarini butunlay oʻchirib qoʻyishingiz yoki har bir alohida ilova uchun ruxsatni sozlashingiz mumkin.</p>
+          </div>
+
+              <p>Agar sizda Android smartfoni bo‘lsa. 2013 yildan beri telefonlarda maxsus reklama identifikatori mavjud. U Google Play xizmatlari tomonidan foydalanuvchilarning odatlari va sevimli mashg‘ulotlarini kuzatish uchun o‘rnatiladi. Agar siz o‘zingiz haqingizda kamroq ma’lumot berishni istasangiz, ID raqamingizni qayta o‘rnatishingiz mumkin.</p>
+              <p>Sozlamalar → Google → Reklama → Reklama identifikatorini qayta o‘rnatish yoki Reklama identifikatorini o‘chirish-ga o‘ting. Birinchi holda, barcha ma’lumotlar tozalanadi va yangi identifikator paydo bo‘ladi, ikkinchidan, ilovalar reklamani shaxsiylashtirish uchun foydalana olmaydi.</p>
+              <p>Google Play do‘konining qoidalariga ko‘ra, ilovalar faqat ushbu identifikatordan foydalanishi mumkin, ammo ko‘plab xizmatlar taqiqni buzadi - va buni kuzatish har doim ham mumkin emas. Biroq, identifikatorlarga kirishni shunchaki rad etib bo‘lmaydi, chunki ular nafaqat reklama uchun ishlatiladi.</p>
+              <h3>Internetdan ma’lumotni qanday o‘chirish mumkin</h3>
+              
+              <p>Barcha anonim ilovalarni o‘rnatganingizdan so‘ng, siz haqingizda allaqachon e'lon qilingan ma’lumotlarni Internetdan o‘chirish qoladi. Siz barcha ma’lumotlardan xalos bo‘lolmaysiz, lekin bu erda nima qilishingiz mumkin:</p>
+              <p>Raqamli izlarni kamaytirish juda qiyin. Siz  Internetda e'lon qilgan hamma narsa - xabarlar, fotosuratlar, videolar, shaxsiy ma’lumotlar - sizning ishtirokingizsiz tarqatilishi mumkin, hatto ijtimoiy tarmoqlarda shaxsiy profillaringiz bo‘lsa ham. Ammo profillaringizni noaniq kontentdan tozalash mantiqan to‘g‘ri keladi: kelajakdagi ish beruvchilar yoki Google'ga qaror qilgan boshqa odamlar sizni hukm qilish uchun ham undan foydalanadilar. Agar siz faol bo‘lmagan forumlar va saytlarda eski hisoblar mavjud bo‘lsa, ularni o‘chirish so‘rovi bilan ma’muriyatga murojaat qiling.</p>
+              <p>Raqamli izlarni kamaytirish juda qiyin. Siz  Internetda e'lon qilgan hamma narsa - xabarlar, fotosuratlar, videolar, shaxsiy ma’lumotlar - sizning ishtirokingizsiz tarqatilishi mumkin, hatto ijtimoiy tarmoqlarda shaxsiy profillaringiz bo‘lsa ham. Ammo profillaringizni noaniq kontentdan tozalash mantiqan to‘g‘ri keladi: kelajakdagi ish beruvchilar yoki Google'ga qaror qilgan boshqa odamlar sizni hukm qilish uchun ham undan foydalanadilar. Agar siz faol bo‘lmagan forumlar va saytlarda eski hisoblar mavjud bo‘lsa, ularni o‘chirish so‘rovi bilan ma’muriyatga murojaat qiling.</p>
+              <p>Raqamli izni kamroq qoldirish usullari mavjud. Kengaytirilgan maxfiylik sozlamalariga ega brauzerdan foydalaning, reklama kuzatuvchilarini o‘chirib qo‘yadigan xizmatlardan foydalaning, ijtimoiy tarmoqlardagi profillar orqali saytlarga kirmang, haqiqiy ismingizni qoldirmang, haqiqiy ismingizni oshkor qilmaslik uchun elektron pochta manzili generatorlaridan foydalaning.</p>
+              <p>Android ham, iOS ham foydalanuvchi maʼlumotlari ilovalari qabul qilinishini boshqarish vositalarini taqdim etadi. Agar sizga bu kerak bo‘lsa, Google reklama identifikatoringizni qayta o‘rnating va iPhone-da kuzatuv so‘rovlarini o‘chirib qo‘ying.</p>
+              <p>Rossiyada «unutish huquqi» mavjud - siz qidiruv platformalaridan yolg‘on yoki tuhmatli ma’lumotlarni olib tashlashni so‘rashingiz mumkin. Esingizda bo‘lsin: shu tarzda siz materiallarni o‘zingiz o‘chirmaysiz, lekin ular endi Google va Yandex natijalarida ko‘rinmaydi.</p>
+              <a href="https://udoba.org/node/205752  " target="_blank">Interaktiv tapsirmalar</a>
+    
+      <h3>Savollar:</h3>
+      <ol>
+        <li>1.	Raqamli izni nima va u qanday shakllarda namoyon bo‘ladi?</li>
+        <li>2.	Raqamli izni himoyalashning asosiy maqsadi qanday?</li>
+        <li>3.	Raqamli izni himoya qilishda shaxsiy ma’lumotlarni himoya qilish bilan bog‘liq qonunlar va me’yoriy hujjatlar qanday rol o‘ynaydi?</li>
+        <li>4.	Raqamli izni himoya qilishda shaxsiy ma’lumotlar, IP-manzillar, geolokatsiya kabi elementlar qanday xavf tug‘diradi?</li>
+        <li>5.	Raqamli izning zararli ta’siri ta’lim va kasbiy faoliyatga qanday salbiy oqibatlar keltirishi mumkin? </li>
+      </ol>
+    </div>
+    
+    <style>
+      .genially-content {
+        font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+        line-height: 1.6;
+        max-width: 900px;
+        margin: 0 auto;
+        padding: 20px;
+        color: #333;
+      }
+      
+      .genially-content h2 {
+        color: #2c3e50;
+        text-align: center;
+        margin-bottom: 30px;
+        padding-bottom: 10px;
+        border-bottom: 2px solid #3498db;
+      }
+      
+      .genially-content h3 {
+        color: #2980b9;
+        margin-top: 30px;
+        margin-bottom: 15px;
+      }
+      
+      .genially-content h4 {
+        color: #16a085;
+        margin-top: 20px;
+        margin-bottom: 10px;
+      }
+      
+      .genially-content p {
+        margin-bottom: 15px;
+        text-align: justify;
+      }
+      
+      .image-container {
+        text-align: center;
+        margin: 25px 0;
+      }
+      
+      .content-image {
+        max-width: 100%;
+        height: auto;
+        border-radius: 8px;
+        box-shadow: 0 4px 8px rgba(0,0,0,0.1);
+        border: 1px solid #ddd;
+        display: inline-block;
+      }
+      
+      .image-caption {
+        font-style: italic;
+        color: #7f8c8d;
+        margin-top: 8px;
+        text-align: center;
+        font-size: 0.9em;
+      }
+      
+      .genially-content ul, 
+      .genially-content ol {
+        margin-left: 25px;
+        margin-bottom: 20px;
+      }
+      
+      .genially-content li {
+        margin-bottom: 8px;
+      }
+    
+      a{
+      color:red;
+        
+       
+      }
+      
+      @media (max-width: 768px) {
+        .genially-content {
+          padding: 15px;
+        }
+        
+        .content-image {
+          border-radius: 5px;
+        }
+      }
+    </style>
+        `
+      },
+      { 
+        title: "WIRESHARK,	NMAP,  KALI LINUX YORDAMIDA XIMOYA TAKTIKASINI ISHLAB CHIQISH",
+        content: `
+          <div class="genially-content">
+          <h2>15-MAVZU: WIRESHARK,	NMAP,  KALI LINUX YORDAMIDA XIMOYA TAKTIKASINI ISHLAB CHIQISH</h2>
+          <p>Bugungi biznes muhitida penetratsion test xavfsiz mahsulot yoki tizim ostida har qanday IT ilovasini ishlab chiqish uchun muhim qadamdir. Tizim xavfsizligini baholash uchun eng keng tarqalgan yondashuv penetratsion test bo‘lib, u IT tizimiga tajovuz qilish uchun tajovuzkorlar tomonidan bajariladigan harakatlarning simulyatsiyasi sifatida qaraladi. Penetratsion testning samaradorligi sinovchilarning malakasi va tajribasiga qarab baholanadi. Har xil vositalar bilan amal qiladigan va mashq qiladigan penetratsion testerlar resurslardan foydalanishda samaraliroq. Ushbu maqolada biz turli xil kirish vositalarini, ulardan foydalanishni va ular resurslarga qanday kirib borishini tasvirlaymiz.</p>
+          <p>Penetratsiyani tekshirish jarayoni har bir aniq darajadagi testlarda qo‘llaniladigan avtomatlashtirilgan vositalar tomonidan qo‘llab-quvvatlanadi. Xavfsizlik muammolari ilovalarga qarab farq qiladi. Ushbu maqola xavfsiz ma’lumotlarning oshkor etilishiga yoki tajovuzga olib keladigan xavfsizlik zaifligini o‘rganadi. Penetratsion test 3 bosqichda ishlaydi: Reconnaissance, u erda mavjud ma’lumotlarni, shu jumladan ping va IP manzilni topish kabi tarmoq testlarini qidiradi va barcha kirish vositalari ushbu toifaga kiradi. Ro‘yxatga olish, u tarmoq konfiguratsiyasi haqida rasm yaratadi va xavfsizlik devori, marshrutizatorlar va veb-server kabi turli xil qurilmalarda xizmatlarni aniqlaydi. </p>
+          <p>Asboblar va texnikalar. Ushbu bo‘limning asosiy maqsadi penetratsion test metodologiyasi va turli xil hujumlar uchun ushbu maqolada qo‘llaniladigan vositalarni qisqacha tanishtirishni ko‘rsatishdir. Ushbu bo‘limda penetratsion test uchun qo‘llaniladigan metodologiya keltirilgan.</p>
+          <ul>
+            <li>•	Rejalashtirish</li>
+            <li>•	Kashfiyot;</li>
+            <li>•	Ekspluatatsiya;</li>
+            <li>•	Hisobot berish;</li>
+          </ul>
+          
+          
+          <p>Rejalashtirish bosqichi to‘liq boshqaruvni tasdiqlash, shartnomalar 	va qonun hujjatlariga muvofiq hujjatlar bilan bog‘liq. Bo‘limlar va ularning imzolari. Bu baholash maqsadlari, ko‘lami va qoidalarini aniq belgilash va hujjatlashtirish uchun mijoz bilan ishlash bilan shug‘ullanadi. Haqiqiy kirish testi ushbu kashfiyot bosqichidan boshlanadi. Bu ma’lumot yig‘ish bosqichi deb ham ataladi. Skanerlash va ro‘yxatga olish protseduralari maqsadli tarmoq, shu jumladan ularning tizimlari va xizmatlari haqida iloji boricha ko‘proq ma’lumotga ega bo‘ling. Ilova va uning infratuzilmasi haqida asosiy ma’lumotlarni yig‘ish va tekshirish kabi.</p>
+               
+          <div class="image-container">
+              <img src="img/15.1.jpg" alt="Pages funksiyasi" class="content-image">
+              <p class="image-caption">15.1-rasm: Penetratsiyani tekshirish metodologiyasi  </p>
+          </div>
+          <p>Uchinchi bosqich - ekspluatatsiya bosqichi. Aniqlangan zaifliklarga asoslanib, bu bosqich tizimning zaif tomonlarini qo‘lga kiritish uchun turli xil avtomatlashtirilgan vositalar, texnikalar va aniq sozlangan qo‘lda qadamlardan foydalanadi. Faza va amaldagi bosqich davomida ekspluatatsiya bosqichi. Oxirgi bosqich hisobot bosqichidir. Bu bosqich barcha topilmalar va ularning texnik va boshqaruv jihatlarini hisobga olgan holda tashkilotga ta’siri haqida batafsil ma’lumot beradi. To‘liq batafsil va yaxshi hujjatlar tashkilot buyurtmasiga taqdim etiladi. xavfsizlik xatarlari haqida ma’lumot berish va yuqori darajadagi tavsiyalar bilan texnik ma’lumotlarni taqdim etish. Ushbu bo‘lim turli xil penetratsion test vositalari, ulardan foydalanish va zaifliklardan qanday foydalanishlari haqida umumiy ma’lumot beradi. Ushbu maqolada keltirilgan vositalar quyida keltirilgan va har bir vosita asosiy bilimlar uchun batafsil tushuntirilgan.</p>
+
+          <ul>
+            <li>•	Ettercap</li>
+            <li>•	Driftnet</li>
+            <li>•	Nmap</li>
+            <li>•	Wireshark</li>
+            <li>•	Metasploit  </li>
+          </ul>
+
+
+            <p>Ettercap tarmoq va xostni tahlil qilish uchun ko‘plab protokollarning faol va passiv tahlilini qo‘llab-quvvatlaydi. U 4 rejimda ishlaydi: IP asosida: Paketlar manba va maqsad IP manzili asosida filtrlanadi. MAC-asosli: MAC manziliga asoslangan paketlar filtrlanadi va shlyuz orqali ulanishlarni hidlash uchun ishlatiladi.ARP asosida: To‘liq dupleks rejimida ishlaydi. ARP zaharlanishidan foydalanib, ikkita xost o‘rtasida almashtirilgan LANdagi ma’lumotlarni hidlang. Umumiy ARP asosida: U yarim dupleks rejimida ishlaydi. U yoqilgan LANdagi ma’lumotlarni ARP zaharlanishi yordamida jabrlanuvchi xostdan boshqa barcha xostlarga o‘tkazadi.</p>
+            <p>Shuningdek, u HTTPS qo‘llab-quvvatlashi kabi ba’zi xususiyatlarni taklif etadi - ulanish proksi-server orqali amalga oshirilganda ham HTTP SSL himoyalangan ma’lumotlarni qo‘llab-quvvatlaydi, o‘rnatilgan ulanishga belgilar kiritish - belgilar serverga yoki mijozga kiritilishi mumkin.</p>
+            <p>Driftnet - bu baliq ovlash usuli bo‘lib, unda to‘rlar pastki qismga tegmasdan vertikal ravishda suv ustuniga osiladi. Ular to‘rga o‘xshab buklanadilar, xuddi deraza pardalari kabi, baliq to‘rga kirsa, baliq dumi va qanotlariga tiqilib qoladi va qochish uchun kurashayotganda baliqni to‘rga o‘radi. Xuddi shu kontseptsiya foydalanuvchi va tajovuzkor o‘rtasida ma’lumotlar uzatilganda ma’lumotlarni olish uchun tarmoqlarda qo‘llaniladi. Driftnet jabrlanuvchi tomonidan ko‘rilgan rasmlar va URL manzillarni ko‘rsatadi. O‘rta hujumda odam Arpspoof yordamida va transportni hidlash amalga oshirilishi kerak.</p>
+            <p>Metasploit xavfsizlik zaifliklari haqida ma’lumot beruvchi xavfsizlikni ta’minlaydi va kirish testlari va IDS imzolarini ishlab chiqishda yordam beradi. Bu ochiq manbali Metasploit ramkasi bo‘lib, masofaviy maqsadli mashina orqali ekspluatatsiya kodini ishlab chiqish va bajarish uchun vositadir. Tizimdan foydalanish uchun ramkaga kiritilgan qadamlar:</p>
+            
+            <ul>
+            <li>1.	Ekspluatatsiyani tanlang va sozlang</li>
+            <li>2.	Maqsadli tizim ekspluatatsiyaga moyilligini tekshiring</li>
+            <li>3.	Foydali yukni tanlang va sozlang</li>
+            <li>4.	Bosqinning oldini olish tizimi kodlangan foydali yukni e'tiborsiz qoldiradigan tarzda kodlash texnikasini tanlang.</li>
+            <li>5.	Ekspluatatsiyani amalga oshiring.</li>
+          </ul>
+            
+            <p>Ushbu ramkaning afzalligi shundaki, u har qanday ekspluatatsiyani har qanday foydali yuk bilan birlashtirishga imkon beradi. Bu tajovuzkorlar, foydali yuk yozuvchilar va ekspluatatorlar yozuvchilarning vazifalariga yordam beradi. U UNIX va Windows da ishlaydi. Bundan tashqari, u bir nechta tillarda qo‘shimchalardan foydalanish uchun kengaytirilishi mumkin. Operatsion tizim va maqsadli mashina haqida o‘rnatilgan tarmoq xizmatlari kabi ekspluatatsiya va foydali yuk ma’lumotlarini tanlash uchun kerak. Buni port skanerlash yordamida amalga oshirish mumkin va Nessus kabi Nmap.Vulnerability skanerlari maqsadli tizimdagi zaifliklarni aniqlay oladi. U zaifliklarni skanerlash ma’lumotlarini import qiladi va aniq foydalanish uchun aniqlangan zaifliklarni mavjud ekspluatatsiya modullari bilan solishtiradi.</p>
+            <p>Turli xil Metasploit interfeyslari mavjud. Eng mashhur interfeyslar - Metasploit Framework nashri, Metasploit hamjamiyat nashri, Metasploit Express, Metasploit pro, Armitage va Cobalt Strike. Ushbu maqolada biz Metasploit Framework nashri bilan ishladik. Metasploit juda ko‘p foydali yuklarga ega. Ulardan ba’zilari to‘plam skriptlarini yoki xost ustida ixtiyoriy buyruqlarni boshqaradigan buyruq qobig‘i. Meterpreter, biz qog‘ozda Meterpreter bilan ishladik. U fayllarni ko‘rish, yuklash va yuklab olish kabi qurilma ekranini boshqaradi. Dinamik yuklar - noyob foydali yuklar virusga qarshi himoya vositalari tomonidan ishlab chiqariladi.</p>
+            <p>Wireshark - bu muammoni bartaraf etish, dasturiy ta’minot va aloqa protokolini tahlil qilish uchun foydalaniladigan bepul va ochiq kodli paket analizatori. Wireshark tcpdump-ga o‘xshaydi, ba’zi bir integratsiyalashgan saralash va filtrlash imkoniyatlari bilan grafik old tomoni. Wireshark-dan foydalanib, foydalanuvchi interfeysda ko‘rinadigan barcha trafikni, sozlangan manzillarni va translyatsiya/multikastiyali trafikni ko‘rishi mumkin. Portni tortib olish tarmoqning istalgan nuqtasiga yozib olishni kengaytiradi. Tarmoq turlari bo‘yicha paketlarni olish uchun Wireshark PCap-dan foydalanadi</p>
+            <p>Wireshark xususiyatlari: Ma’lumotlarni jonli tarmoqdan yoki simdan olish yoki allaqachon olingan paketlar faylidan o‘qish, tarmoq ma’lumotlarini GUI yoki terminal orqali ko‘rib chiqish, Simsiz ulanishlarni filtrlash. Tarmoq LIP Cap tomonidan qo‘llab-quvvatlanadigan Libcap formati yordamida kuzatiladi, shuning uchun olingan tarmoq izlari bir xil formatdan, shu jumladan tcpdumpdan foydalanadigan boshqa ilovalar bilan almashtiriladi.</p>
+            <p>Yuqoridagi bo‘limda barcha penetratsion test vositalari haqida batafsil tavsif berilgan va endi ularni amalga oshirish tartibiga rioya qilish vaqti keldi. Avvaliga barcha vositalar kali Linuxda o‘chirib qo‘yiladi, ularni ishlash uchun yoqishingiz kerak bo‘lgan buyruqlar yordamida. Ulangan tarmoqlarni ko‘rsatish uchun kali Linux-da ixcham simsiz-ni o‘rnating va biz ulangan va o‘rab turgan barcha tarmoqlarni ko‘rsatadigan tarzda oching. Yo‘lni o‘zgartiring va terminaldan foydalanib o‘rnating. Odatiy bo‘lib, barcha xususiyatlar buyruqlar yordamida o‘chirib qo‘yiladi, ularni faollashtiradi va kuzatib boradi.</p>
+            <p>Wireshark-dan foydalanish. Wireshark - bu trafikni aniqlash uchun ishlatiladigan eng samarali vosita. Bu UNIX va Windows uchun tarmoq protokoli analizatori bo‘lib, tarmoq muammolarini bartaraf etish va tahlil qilish uchun ishlatiladi. Tarmoqni suratga olish TShark deb nomlangan terminalga asoslangan (GUI bo‘lmagan) versiya yordamida ham amalga oshiriladi. Ushbu maqolada biz Wireshark, GUI interfeysidan foydalandik, u interfeysda ko‘rinadigan barcha trafikni ko‘rishi mumkin. Ma’lumotlarni jonli tarmoq ulanishidan sim orqali yoki allaqachon olingan paketlardan faylni o‘qish opsiyasi orqali olish mumkin.</p>
+            <p>Kali Linux-da tarmoq trafigini olish uchun terminalda Wireshark -h buyrug‘i yordamida Wireshark-ni o‘rnating. Rasmga olmoqchi bo‘lgan tarmoqni ishga tushiring, ya’ni mening tarmog‘im eth0. Siz tanlagan tarmoqdagi ma’lumotlarni ishga tushiring va yozib oling.</p>
+            <p> Ettercap va Driftnet-dan foydalanish. Ettercap deb nomlangan tarmoq xavfsizligi vositasi asosan o‘rta hujumlarda odamlar uchun ishlatiladi. Bu kompyuter tarmoqlarini tahlil qilish va xavfsizlik auditi uchun foydalaniladigan bepul va ochiq manbali vositadir. U parollarni qo‘lga kiritish, trafikni tekshirish, trafikni ushlab turish va tinglash qobiliyatiga ega. U tarmoq interfeysini noxush rejimga keltirish va maqsadli mashinalarga ARP zaharlanishini amalga oshirish orqali ishlaydi. </p>
+            <p>Bluetooth. Hciconfig Bluetooth qurilmalarini sozlaydi. hciX - tizimda o‘rnatilgan Bluetooth nomi. Hciconfig hci0 tizimda o‘rnatilgan qurilmani ko‘rsatadi. Hciconfig hci0 up buyrug‘i hci qurilmasini ochadi va ishga tushiradi. Hciconfig tizimda o‘rnatilgan barcha Bluetooth qurilmalari haqida nom va asosiy ma’lumotlarni chop etadi. Hcitool skanerlash tizimiga yaqinroq bo‘lgan barcha qurilmalarni skanerlaydi va yaqinroq qurilmalarni ko‘rsatadi. l2ping <mac-manzil> turidagi mac manzilidan foydalangan holda qurilmaning MAC manzili bilan u avtomatik ravishda qurilmaga ping yuboradi .btscanner-dan foydalaning u barcha Bluetooth ko‘rinadigan qurilmalarni ko‘rsatadi .Buyruq so‘rovini kiriting skanerlash, to‘xtatish, xohishingizga ko‘ra chiqish. U Bluetooth tizimiga ulangan telefon haqida batafsil ma’lumot beradi. Ba’zan tizimga ulangan Bluetooth orqali telefon qo‘ng‘iroqlarini amalga oshirish ham mumkin. </p>
+            
+            <div class="image-container">
+              <img src="img/15.2.jpg" alt="Pages funksiyasi" class="content-image">
+              <p class="image-caption">15.2-rasm MAC manzili bilan skanerlangan blueooth foydalanuvchilari.  </p>
+            </div>
+            
+            <p>Shu bilan mobil foydalanuvchidan uchinchi tomonga mobil foydalanuvchi aralashuvisiz qo‘ng‘iroq qilish ham mumkin.</p>
+            
+            <div class="image-container">
+              <img src="img/15.3.jpg" alt="Pages funksiyasi" class="content-image">
+              <p class="image-caption">15.3-rasm Tanlangan bluetooth foydalanuvchisi haqida mobil ma’lumot</p>
+            </div>
+            <p>15.3-rasmda ulangan bluetooth foydalanuvchisi haqidagi barcha ma’lumotlar berilgan, masalan versiya, manzil va sinf ma’lumotlari. Ba’zida telefon xotirasi va SD-karta kabi telefon ma’lumotlariga hujum qilish ham mumkin.</p>
+
+            <div class="image-container">
+              <img src="img/15.4.jpg" alt="Pages funksiyasi" class="content-image">
+              <p class="image-caption">15.4-rasm Drifnet yordamida o‘rtada hujum qilgan odam.</p>
+            </div>
+
+            <p>Arpspoofing ham jo‘natuvchiga, ham qabul qiluvchiga IP-adreslari bilan buyruqlar yordamida amalga oshiriladi, shunday qilib driftnet jo‘natuvchi/qabul qiluvchi tomonidan ko‘rilgan tasvirlarni aks ettiradi. Yaxshiroq natijalarga erishish uchun brauzerni oching va avtomatik ravishda ko‘rsatiladigan qidiruvni oching. driftnet oynasi. Skrinshotning o‘zi shuni ko‘rsatadiki, foydalanuvchi tomonidan brauzerda ko‘rilgan ma’lumotlar tajovuzkor tomonidan haqiqiy foydalanuvchini bilmagan holda hidlanadi va ko‘riladi.</p>
+
+            <div class="image-container">
+              <img src="img/15.5.jpg" alt="Pages funksiyasi" class="content-image">
+              <p class="image-caption">15.5-rasm Urlsnarf yordamida URL manzillari bilan trafikni aniqlash</p>
+            </div>
+
+            <div class="image-container">
+              <img src="img/15.6.jpg" alt="Pages funksiyasi" class="content-image">
+              <p class="image-caption">15.6-rasm: Wireshark yordamida trafikning ko‘rinishi.</p>
+            </div>
+
+            <p>15.6-rasm Wireshark tarmoqni qanday ushlashini ko‘rsatadi. U jabrlanuvchi tomonidan ko‘rilgan veb-saytni, foydalanuvchi tomonidan yuborilgan ma’lumotlarning sanasi va uzunligini, IP manzilini va protokollarini ko‘rsatadi, shuningdek, interfeysni filtrlash mumkin, bu erda Traffic sniffing qanday ko‘rsatilgan. ettercap va driftnet yordamida amalga oshiriladi.</p>
+
+            <div class="image-container">
+              <img src="img/15.7.jpg" alt="Pages funksiyasi" class="content-image">
+              <p class="image-caption">15.7-rasm: Driftnet yordamida trafikni aniqlash</p>
+            </div>
+
+            <p> Boshqa holat meterpreter haqida uning veb-kameradan foydalanishi va msfconsole yordamida kalitlarni skanerlash ko‘rsatilgan.</p>
+            <p>Meterpreter, ekspluatatsiya tizimdagi faylni yoqish orqali amalga oshirilishini belgilaydi. Masalan, ko‘rsatilganidek, keyscan_start tizimda yuklab olingan faylni keyscan amalga oshirish uchun ishga tushirish yoki faollashtirish kerakligini belgilaydi. keyscan_start ishga tushganda u foydalanuvchi tomonidan terilgan va saqlanadigan barcha kalitlarni skanerlaydi. Saqlangan kalitlar keyscan_dump buyrug‘i yordamida ko‘rsatiladi. Masalan, brauzerni oching va Gmail-ga bosing va login. Natijada silangan foydalanuvchi nomi va parol kabi kirish ma’lumotlari ko‘rsatiladi.</p>
+      
+            <a href="https://udoba.org/node/205752  " target="_blank">Interaktiv tapsirmalar</a>
+          
+            <h3>Savollar:</h3>
+            <ol>
+              <li>1.	Wireshark, Nmap va Kali Linux nima va ular qanday xavfsizlikni ta’minlashda ishlatiladi?</li>
+              <li>2.	Wireshark vositasining asosiy funktsiyalari nimalardan iborat va u tarmoq xavfsizligini tahlil qilishda qanday yordam beradi?</li>
+              <li>3.	Nmap asbobi orqali tarmoqni skanerlash qanday amalga oshiriladi va xavfsizlikni baholashda qanday yordam beradi?</li>
+              <li>4.	Kali Linux’ning xavfsizlik auditlari va penetratsiya testlarida qanday o‘rni bor?</li>
+              <li>5.	Wireshark yordamida tarmoqdagi shubhali faoliyatni qanday aniqlash mumkin?</li>
+            </ol>
+    </div>
+    
+    <style>
+      .genially-content {
+        font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+        line-height: 1.6;
+        max-width: 900px;
+        margin: 0 auto;
+        padding: 20px;
+        color: #333;
+      }
+      
+      .genially-content h2 {
+        color: #2c3e50;
+        text-align: center;
+        margin-bottom: 30px;
+        padding-bottom: 10px;
+        border-bottom: 2px solid #3498db;
+      }
+      
+      .genially-content h3 {
+        color: #2980b9;
+        margin-top: 30px;
+        margin-bottom: 15px;
+      }
+      
+      .genially-content h4 {
+        color: #16a085;
+        margin-top: 20px;
+        margin-bottom: 10px;
+      }
+      
+      .genially-content p {
+        margin-bottom: 15px;
+        text-align: justify;
+      }
+      
+      .image-container {
+        text-align: center;
+        margin: 25px 0;
+      }
+      
+      .content-image {
+        max-width: 100%;
+        height: auto;
+        border-radius: 8px;
+        box-shadow: 0 4px 8px rgba(0,0,0,0.1);
+        border: 1px solid #ddd;
+        display: inline-block;
+      }
+      
+      .image-caption {
+        font-style: italic;
+        color: #7f8c8d;
+        margin-top: 8px;
+        text-align: center;
+        font-size: 0.9em;
+      }
+      
+      .genially-content ul, 
+      .genially-content ol {
+        margin-left: 25px;
+        margin-bottom: 20px;
+      }
+      
+      .genially-content li {
+        margin-bottom: 8px;
+      }
+    
+      a{
+      color:red;
+        
+       
+      }
+      
+      @media (max-width: 768px) {
+        .genially-content {
+          padding: 15px;
+        }
+        
+        .content-image {
+          border-radius: 5px;
+        }
+      }
+    </style>
+        `
+      },
+    
+      
+
+
     
   
 ];
