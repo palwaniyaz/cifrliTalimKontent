@@ -2039,7 +2039,7 @@ JOYLASHTIRISH</h2>
       
       <p>Xulosa qilib aytganda, Genially ko'p qirrali platforma bo'lib, u foydalanuvchilarga interaktiv va animatsiyali kontent yaratish imkonini beradi va uni taqdimotlar, o'quv materiallari va boshqa turli maqsadlar uchun ideal qiladi. U jozibador va vizual jozibador kontent yaratishni osonlashtiradigan bir qator xususiyatlar va shablonlarni taklif etadi.</p>
       
-      <a href="https://udoba.org/node/205752  " target="_blank">Interaktiv tapsirmalar</a>
+      <a href="https://udoba.org/node/205752  " target="_blank">Interaktiv</a>
     
       <h3>Savollar:</h3>
       <ol>
