@@ -1,0 +1,253 @@
+<!DOCTYPE html>
+<html lang="uz">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Aloqa Formasi</title>
+    <style>
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+        }
+
+        body {
+            background-color: #f5f5f5;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            min-height: 100vh;
+            padding: 20px;
+        }
+
+        .container {
+            width: 100%;
+            max-width: 500px;
+            background-color: #fff;
+            border-radius: 10px;
+            box-shadow: 0 5px 15px rgba(0, 0, 0, 0.1);
+            overflow: hidden;
+        }
+
+        .form-header {
+            background-color: greenyellow;
+            color: #fff;
+            padding: 20px;
+            text-align: center;
+        }
+
+        .form-header h2 {
+            font-size: 24px;
+            margin-bottom: 5px;
+        }
+
+        .form-header p {
+            font-size: 14px;
+            opacity: 0.8;
+        }
+
+        .form-content {
+            padding: 30px;
+        }
+
+        .form-group {
+            margin-bottom: 20px;
+        }
+
+        .form-group label {
+            display: block;
+            margin-bottom: 8px;
+            font-weight: 500;
+            color: #333;
+        }
+
+        .form-group input,
+        .form-group textarea,
+        .form-group select {
+            width: 100%;
+            padding: 12px;
+            border: 1px solid #ddd;
+            border-radius: 4px;
+            font-size: 14px;
+            transition: border-color 0.3s;
+        }
+
+        .form-group input:focus,
+        .form-group textarea:focus,
+        .form-group select:focus {
+            border-color: greenyellow;
+            outline: none;
+        }
+
+        .form-group textarea {
+            height: 120px;
+            resize: vertical;
+        }
+
+        .submit-btn {
+            background-color: greenyellow;
+            color: #fff;
+            border: none;
+            padding: 12px 20px;
+            border-radius: 4px;
+            cursor: pointer;
+            font-size: 16px;
+            font-weight: 500;
+            width: 100%;
+            transition: background-color 0.3s;
+        }
+
+        .submit-btn:hover {
+            background-color: greenyellow;
+        }
+
+        .error-message {
+            color: #e74c3c;
+            font-size: 14px;
+            margin-top: 5px;
+            display: none;
+        }
+
+        .success-message {
+            background-color: #2ecc71;
+            color: #fff;
+            padding: 15px;
+            border-radius: 4px;
+            margin-bottom: 20px;
+            display: none;
+        }
+
+        @media (max-width: 500px) {
+            .form-content {
+                padding: 20px;
+            }
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <div class="form-header">
+            <h2>Biz bilan bog'laning</h2>
+            <p>Savollaringizni yuboring, tez orada javob beramiz</p>
+        </div>
+        
+        <div class="form-content">
+            <div class="success-message" id="successMessage">
+                Xabaringiz muvaffaqiyatli yuborildi! Tez orada siz bilan bog'lanamiz.
+            </div>
+            
+            <form id="contactForm">
+                <div class="form-group">
+                    <label for="name">Ism-familiya *</label>
+                    <input type="text" id="name" name="name" required>
+                    <div class="error-message" id="nameError">Iltimos, ismingizni kiriting</div>
+                </div>
+                
+                <div class="form-group">
+                    <label for="email">Elektron pochta *</label>
+                    <input type="email" id="email" name="email" required>
+                    <div class="error-message" id="emailError">Iltimos, to'g'ri elektron pochta manzilini kiriting</div>
+                </div>
+                
+                <div class="form-group">
+                    <label for="phone">Telefon raqam</label>
+                    <input type="tel" id="phone" name="phone">
+                    <div class="error-message" id="phoneError">Iltimos, to'g'ri telefon raqamini kiriting</div>
+                </div>
+                
+                <div class="form-group">
+                    <label for="subject">Mavzu *</label>
+                    <select id="subject" name="subject" required>
+                        <option value="">Mavzu tanlang</option>
+                        <option value="savol">Savollar</option>
+                        <option value="hamkorlik">Hamkorlik taklifi</option>
+                        <option value="shikoyat">Shikoyat</option>
+                        <option value="boshqa">Boshqa</option>
+                    </select>
+                    <div class="error-message" id="subjectError">Iltimos, mavzuni tanlang</div>
+                </div>
+                
+                <div class="form-group">
+                    <label for="message">Xabar matni *</label>
+                    <textarea id="message" name="message" required></textarea>
+                    <div class="error-message" id="messageError">Iltimos, xabar matnini kiriting</div>
+                </div>
+                
+                <button type="submit" class="submit-btn">Yuborish</button>
+            </form>
+        </div>
+    </div>
+
+    <script>
+        document.addEventListener('DOMContentLoaded', function() {
+            const contactForm = document.getElementById('contactForm');
+            const successMessage = document.getElementById('successMessage');
+            
+            // Form validation
+            contactForm.addEventListener('submit', function(e) {
+                e.preventDefault();
+                
+                // Reset errors
+                const errorMessages = document.querySelectorAll('.error-message');
+                errorMessages.forEach(error => error.style.display = 'none');
+                
+                let isValid = true;
+                
+                // Validate name
+                const name = document.getElementById('name');
+                if (!name.value.trim()) {
+                    document.getElementById('nameError').style.display = 'block';
+                    isValid = false;
+                }
+                
+                // Validate email
+                const email = document.getElementById('email');
+                const emailRegex = /^[^\s@]+@[^\s@]+\.[^\s@]+$/;
+                if (!emailRegex.test(email.value)) {
+                    document.getElementById('emailError').style.display = 'block';
+                    isValid = false;
+                }
+                
+                // Validate phone (optional)
+                const phone = document.getElementById('phone');
+                if (phone.value.trim() !== '') {
+                    const phoneRegex = /^[+]?[(]?[0-9]{3}[)]?[-\s.]?[0-9]{3}[-\s.]?[0-9]{4,6}$/;
+                    if (!phoneRegex.test(phone.value)) {
+                        document.getElementById('phoneError').style.display = 'block';
+                        isValid = false;
+                    }
+                }
+                
+                // Validate subject
+                const subject = document.getElementById('subject');
+                if (!subject.value) {
+                    document.getElementById('subjectError').style.display = 'block';
+                    isValid = false;
+                }
+                
+                // Validate message
+                const message = document.getElementById('message');
+                if (!message.value.trim()) {
+                    document.getElementById('messageError').style.display = 'block';
+                    isValid = false;
+                }
+                
+                // If valid, submit the form
+                if (isValid) {
+                    // Here you would typically send the form data to a server
+                    // For demo purposes, we'll just show a success message
+                    
+                    successMessage.style.display = 'block';
+                    contactForm.reset();
+                    
+                    // Hide success message after 5 seconds
+                    setTimeout(() => {
+                        successMessage.style.display = 'none';
+                    }, 5000);
+                }
+            });
+        });
+    </script>
+</body>
+</html>
