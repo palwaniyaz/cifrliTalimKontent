@@ -113,11 +113,4 @@
         nav.classList.toggle('mobile-menu');
     }
 
-    // Mobil menyu tugmasi
-    document.addEventListener('DOMContentLoaded', function() {
-        const menuBtn = document.createElement('div');
-        menuBtn.className = 'mobile-menu-btn';
-        menuBtn.innerHTML = '☰';
-        menuBtn.onclick = toggleMobileMenu;
-        document.querySelector('nav').prepend(menuBtn);
-    });
+    
